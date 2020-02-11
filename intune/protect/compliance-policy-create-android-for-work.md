@@ -98,7 +98,7 @@ As an Intune administrator, use these compliance settings to help protect your o
   - **Not configured** (*default*) -  This setting isn't evaluated for compliance or non-compliance.
   - **Require** - Users must enter a password before they can access their device. 
 
-  This setting applies at the device level. If you only need to require a password at the work profile level, then use a configuration policy. See [Android Enterprise device configuration settings](../configuration/device-restrictions-android-for-work.md).
+
 
   - **Required password type**: Choose if a password should include only numeric characters, or a mix of numerals and other characters. Your options:
     - **Device default** - To evaluate password compliance, be sure to select a password strength other than **Device default**.  
